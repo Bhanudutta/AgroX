@@ -14,5 +14,9 @@ The files for server and client side communication
 # Images
 These images are the database used for training template trainer
 
+# Future perspective
+We plan to make an android app that can be used with the system so that a common man can easily use our product and can diagnose plant diseases
+
+
 
 
